@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌️Hi, we're instabyte solutions!<br>🏢We are a chandigarh based agency in India!<br>🙎‍♂️We have a high-profile development track since 2024!<br>👩‍💻Love Dealing in Technologies: HTML, CSS, JavaScript, PHP & Node. js<br>✍️We've collaborated on many great projects and contributed <br>      towards problem-solving!<br>🤳Connect with us on @instabytesoultions.com<br><br><br><br>
+✌️ Hi, we're instabyte solutions!<br>🏢 We are a chandigarh based agency in India!<br>🙎‍♂️ We have a high-profile development track since 2024!<br>👩‍💻 Love Dealing in Technologies: HTML, CSS, JavaScript, PHP & Node. js<br>✍️ We've collaborated on many great projects and contributed towards problem-solving!<br>🤳 Connect with us on @instabytesoultions.com<br><br>
 
 
 ## 🌐 Socials:
